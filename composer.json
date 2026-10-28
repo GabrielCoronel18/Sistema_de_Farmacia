@@ -1,0 +1,18 @@
+{
+    "name": "usuario/sistema_de_farmacia",
+    "description": "nothing",
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Usuario\\SistemaDeFarmacia\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GabrielCoronel18",
+            "email": "gjcoronel18@gmail.com"
+        }
+    ]
+}
